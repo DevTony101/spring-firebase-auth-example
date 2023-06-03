@@ -2,7 +2,6 @@ package firebase_auth_example.infrastructure.configuration.security;
 
 import firebaseauth.FirebaseAuthFilter;
 import firebaseauth.security.SimpleFirebaseSecurityConfiguration;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
